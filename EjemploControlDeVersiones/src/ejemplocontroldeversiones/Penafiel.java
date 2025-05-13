@@ -6,12 +6,9 @@ package ejemplocontroldeversiones;
 
 /**
  *
- * @author melcu
+ * @author Usuario
  */
-public class Cuadrado {
+public class Penafiel {
     
-    public static void Prueba(){
-        System.out.println("esta es una prueba");
-        System.out.println("Esta es mia jaja AlexaNDER");
-    }
+    
 }
