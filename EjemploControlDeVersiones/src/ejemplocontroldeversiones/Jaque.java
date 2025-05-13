@@ -16,6 +16,8 @@ public class Jaque {
     public Jaque(String nombre, String apellido) {
         this.nombre = nombre;
         this.apellido = apellido;
+        System.out.println("Hola como estan");
     }
+    
     
 }
