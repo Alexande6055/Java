@@ -32,5 +32,8 @@ public class Persona {
         return direccion;
     }
     
+    public static void Nombre(){
+        System.out.println("esto es un opreuba");
+    }
 
 }
