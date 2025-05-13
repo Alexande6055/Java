@@ -20,7 +20,9 @@ public class Adrian {
 
     // Método para presentarse
     public void presentarse() {
-        System.out.println("👋 ¡Hola! Soy Adrian, tengo " + edad + " años y mi lenguaje favorito es " + lenguajeFavorito + ".");
+        System.out.println(" ¡Hola! Soy Adrian Estefano Romero Alarcon, tengo " + edad + " años y mi lenguaje favorito es " + lenguajeFavorito + ".");
+        System.out.println("Hoy es 13 de mayo de 2025.");
+
     }
 
     // Método principal para probar la clase
