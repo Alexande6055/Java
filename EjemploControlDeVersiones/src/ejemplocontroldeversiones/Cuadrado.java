@@ -14,5 +14,6 @@ public class Cuadrado {
         System.out.println("esta es una prueba");
         System.out.println("Esta es mia jaja AlexaNDER");
         System.out.println("hola");
+        System.out.println("Es una prueba");
     }
 }
